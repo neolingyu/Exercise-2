@@ -1,5 +1,7 @@
 # Exercise-2
-http://localhost:1880/#flow/4e1feee424bca76e
+Flow 1: http://localhost:1880/#flow/be25e6ee0aa3a233
+Flow 2: http://localhost:1880/#flow/4e1feee424bca76e
+
 
 [
     {
